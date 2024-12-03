@@ -1,0 +1,230 @@
+#1 question
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP (master) $ pwd
+/workspaces/exercise-terminal-challenge-NPEBSJP
+
+#question 2
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP (master) $ ls -a
+.   assets    .devcontainer  .github     index.html  learn.json    package.json       preview.png   README.md  slides           Untitled  webpack.config.js
+..  .babelrc  .git           .gitignore  index.js    node_modules  package-lock.json  README.es.md  server.js  thecmdchallenge  .vscode
+
+#question3
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP (master) $ ls thecmdchallenge
+boringfolder  console_master.md  funcode  kamehameha  small-name
+
+#question 4
+command clear 
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP (master) $ 
+
+#question 5
+@npebsjp ➜ .../small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious (master) $ cat trophy.txt
+MMMMMMMMMMMNhoooooooooosyymMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdysooo++oo+ooymMMMMMMMM
+MMMMMMMMMMNsohMMMMMMMNNmho/hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNsohdmNMMMMMMMdo+dMMMMMMM
+MMMMMMMMMMh+yMMMMMMMMMMMMs++NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm+oMMMMMMMMMMMMho/MMMMMMM
+MMMMMMMMMMs+hMMMMMMMMMMMMy+/NMMMMMNNNmmddddddddddhhhhhhhhdddmmmmNNNMMMMMMMMd+oMMMMMMMMMMMMmo/dMMMMMM
+MMMMMMMMMMy+hMMMMMMMMMMMMh+/dNhysssoooooooooooo++++++++++ooooossssssyyhhdNMy+yMMMMMMMMMMMMdo/dMMMMMM
+MMMMMMMMMMh+sMMMMMMMMMMMMNho++oossoooooooo+++++/////////++++++ooooooosssooo+yNMMMMMMMMMMMMy+/NMMMMMM
+MMMMMMMMMMNo+mMMMMMMMMMMMMMMNmossssooooo++++++///////////+++++ooooooosysodmNMMMMMMMMMMMMMNs+oMMMMMMM
+MMMMMMMMMMMy+oMMMMMMMMMMMMMMMmoossoooooo++++++///////////+++++ooooooosssomMMMMMMMMMMMMMMMh+/mMMMMMMM
+MMMMMMMMMMMNo/hMMMMMMMMMMMMMMmoossoooooo+++++////////////+++++++++++osso+mMMMMMMMMMMMMMMmo/yMMMMMMMM
+MMMMMMMMMMMMd++dMMMMMMMMMMMMMNoossoo+++++++++////////////+++++++++++osso+mMMMMMMMMMMMMMNs/+NMMMMMMMM
+MMMMMMMMMMMMMh++mMMMMMMMMMMMMmoooso++++++++++////////////+++++++++++osso+NMMMMMMMMMMMMNy++mMMMMMMMMM
+MMMMMMMMMMMMMMy/+mMMMMMMMMMMMNo+ooo+++++++++++///////////+++++++++++oso++NMMMMMMMMMMMMy//mMMMMMMMMMM
+MMMMMMMMMMMMMMMy//dMMMMMMMMMMNo++o++++++++++++///////////+++++++++/+ooo+oNMMMMMMMMMMMy//mMMMMMMMMMMM
+MMMMMMMMMMMMMMMMh+/hMMMMMMMMMMs+++++++//+++++++/////////+++++++////+oo+/sMMMMMMMMMMNs/+mMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMh+/yMMMMMMMMMy/+++//////+++++++///////+++++++/////+oo+/yMMMMMMMMMNo/oNMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMmo/+mMMMMMMMm//++///////++++++++///+++++++++/////+o+//mMMMMMMMMd+/yMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNy//yNMMMMMMo///////////++++++++++++++++++//////+o//oMMMMMMMNs/+mMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMdo/+dMMMMMd///////////////////////////////::/+++//dMMMMMNh//yNMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMNh+:omMMMMs/////:::::::::::::::::::::::::::/++/:sMMMMNh//sNMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMmy//omMMN+////::::::::::::::::::::::::::/++/:+NMMNh//smMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMmy//odMm/////:::::::::::::::::::::::::/+/:/mMms//smMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMNh+/+yh/////:::::::::::::::::::::::/+/::yh+/+hmMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNds+//::///::::::::::---------::/+/::/++ydNMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdyo/::/:::---------------:://::/oydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh/:::::-------------::/::/hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh+:---------------:::+hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmdso/:-------::/ohmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh:::---/dmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN/:::::sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+//:::dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs+//::NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd++/:+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdo+/:+NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNyoo+/:/odMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmyo+/:/hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo+/:oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs+/:yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs+/:hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs+/:yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo+//sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyoo+/+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmdhooo+/+oddmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmhssyssoo++oosysydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmhysoooooooooooooooooooshmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNhsoooooooooooooooooooooooooosymNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNmdhssooooooooooooooooossyyhdmNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNmmdddhhhhhhhhhdddmmNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddddyyyyyysssssssssssssssssyddddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddhy+++////:::::-----------/ohddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddy++++////:::::-------------hddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddy++++////:::::-------------hddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMNdddddddddho+++////:::::-----------::hddddddddddmNMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMNNmddddddddddoo+++++////////////////oddddddddddddmNNMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMddddddddddddddddddddddddddddddddddddddddddddddddddddddMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMNNNNNNNNmddddddddddddddddddddddddddddddddddddddddddddddddddddmNNNNNNNNMMMMMMMMMMMMM
+MMMMMMMMMMMMMNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNMMMMMMMMM
+MMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMM
+
+#question 6
+npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP (master) $ ls
+assets  index.html  index.js  learn.json  node_modules  package.json  package-lock.json  preview.png  README.es.md  README.md  server.js  slides  thecmdchallenge  Untitled  webpack.config.js
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP (master) $ ls thecmdchallenge/
+answers.txt  boringfolder  console_master.md  funcode  kamehameha  small-name
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP (master) $ cd thecmdchallenge/
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ ls
+answers.txt  boringfolder  console_master.md  funcode  kamehameha  small-name
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ cd funcode/
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge/funcode (master) $ ls
+baby.jpg            borat.success.1.jpg  einstein.png  frame.1.html  invalid.png      kids.1.jpg    mouse.html     regexer.css      rigoberto.jpg      script.js       view-source_projects.breathecode.local_p_php_senior_msql_mysql-tester_.htm
+baby.success.1.jpg  borat.success.jpg    forms.1.html  frame.html    keyboard.1.html  kids.jpg      regexer.1.css  regexer.js       scared-baby.1.jpg  the-most-funny
+baby.success.jpg    einstein.1.png       forms.html    images        keyboard.html    mouse.1.html  regexer.1.js   rigoberto.1.jpg  scared-baby.jpg    valid.png
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge/funcode (master) $ ls *.js
+regexer.1.js  regexer.js  script.js
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge/funcode (master) $ 
+
+#question 7
+npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge/funcode (master) $ cd ..
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ ls
+answers.txt  boringfolder  console_master.md  funcode  kamehameha  not-that-funny  small-name
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ mkdir funcode/the-most-funny/not-that-funny
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ cd funcode/the-most-funny
+@npebsjp ➜ .../exercise-terminal-challenge-NPEBSJP/thecmdchallenge/funcode/the-most-funny (master) $ ls funcode/the-most-funny
+ls: cannot access 'funcode/the-most-funny': No such file or directory
+@npebsjp ➜ .../exercise-terminal-challenge-NPEBSJP/thecmdchallenge/funcode/the-most-funny (master) $ cd funcode/the-most-funny
+bash: cd: funcode/the-most-funny: No such file or directory
+@npebsjp ➜ .../exercise-terminal-challenge-NPEBSJP/thecmdchallenge/funcode/the-most-funny (master) $ ls
+lol  not-that-funny
+
+#question 8
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP (master) $ ls
+assets  index.html  index.js  learn.json  node_modules  package.json  package-lock.json  preview.png  README.es.md  README.md  server.js  slides  thecmdchallenge  Untitled  webpack.config.js
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP (master) $ cd thecmdchallenge/
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ ls
+answers.txt  boringfolder  console_master.md  funcode  kamehameha  lol.txt  not-that-funny  small-name
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ cp ./boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception/the-mostboring-text.txt ./boringfolder/even-more-boring/i-cant-belie
+ve-how-boring/the-ultimate-boring-inception/lol.txt
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ ls boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception/
+lol.txt  myfirstcopy.txt  the-mostboring-text.txt
+
+# question 9
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ mv ./funcode/kids.jpg ./funcode/images/hello/
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ ls ./funcode/images/hello/
+invalid.png  kids.jpg
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ 
+
+#question 10
+pebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ rm -rf small-name
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ ls
+answers.txt  boringfolder  console_master.md  funcode  kamehameha  lol.txt  not-that-funny
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ 
+
+#question 11
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ find ./ f -name the-ultimate*.*
+./funcode/the-most-funny/lol/the-ultimate-joke.txt
+find: ‘f’: No such file or directory
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ cat ./funcode/the-most-funny/lol/the-ultimate-joke.txt
+What do you call a programmer from Finland? ..... NERDIC!
+
+Got it?? :)
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ 
+
+# question12
+
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ rm -r boringfolder/*
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ ls boringfolder/
+@npebsjp ➜ /workspaces/exercise-terminal-challenge-NPEBSJP/thecmdchallenge (master) $ 
+
+# question 13
+vi kamehameha/dragon-ball-jokes.md
+Where do you put Vegeta after you kill him? In the Frieza.
+
+What did Beerus say to Goku? Why don't you tell your son to "Gohan" home.
+
+How many Super Saiyans does it take to change a light bulb? Just one, but it will take him five episodes.
+
+I don't find Dragon Ball Z jokes to be funny..... "Just Saiyan"
+
+What do Saiyans wear to the beach? Trunks.
+
+What did Vegeta say when he got his tuition bill? "It's over 9000"
+
+Where does Vegeta get the energy to fly? Red Bullma, it gives you wings.
+
+What is Goku's favorite instrument of destruction? A Piccolo (flute).
+
+How do you get in touch with an android? By using a CELL Phone.
+
+Did you know Frieza wasn't very popular in school? His brother was COOLER.
+
+Me: How do you make Dragon Ball Z less gay? Shenron: "Your wish is far beyond my power."
+
+What does an elite saiyan warrior need to fix a car? Nappa know how.
+
+I cut off a monkeys tail and now he's just a vegeta-ble.
+
+Hey, Vegeta I heard you have a hole in your Trunks. -Cell
+
+source: http://www.jokes4us.com/peoplejokes/dragonballzjokes.html
+
+# question 14
+vi ./kamehameha/dragon-ball-jokes.md
+type dd in the line
+type :wq (it will save and quit)
+
+What did Beerus say to Goku? Why don't you tell your son to "Gohan" home.
+
+How many Super Saiyans does it take to change a light bulb? Just one, but it will take him five episodes.
+
+I don't find Dragon Ball Z jokes to be funny..... "Just Saiyan"
+
+What do Saiyans wear to the beach? Trunks.
+
+What did Vegeta say when he got his tuition bill? "It's over 9000"
+
+Where does Vegeta get the energy to fly? Red Bullma, it gives you wings.
+
+What is Goku's favorite instrument of destruction? A Piccolo (flute).
+
+How do you get in touch with an android? By using a CELL Phone.
+
+Did you know Frieza wasn't very popular in school? His brother was COOLER.How many Super Saiyans does it take to change a light bulb? Just one, but it will take him five episodes.
+
+I don't find Dragon Ball Z jokes to be funny..... "Just Saiyan"
+
+What do Saiyans wear to the beach? Trunks.
+
+What did Vegeta say when he got his tuition bill? "It's over 9000"
+
+Where does Vegeta get the energy to fly? Red Bullma, it gives you wings.
+
+What is Goku's favorite instrument of destruction? A Piccolo (flute).
+
+How do you get in touch with an android? By using a CELL Phone.
+
+Did you know Frieza wasn't very popular in school? His brother was COOLER.
+
+Me: How do you make Dragon Ball Z less gay? Shenron: "Your wish is far beyond my power."
+
+What does an elite saiyan warrior need to fix a car? Nappa know how.
+
+I cut off a monkeys tail and now he's just a vegeta-ble.
+
+Hey, Vegeta I heard you have a hole in your Trunks. -Cell
+
+source: http://www.jokes4us.com/peoplejokes/dragonballzjokes.html
